@@ -11,6 +11,8 @@ https://www.pbxforums.com/threads/i-want-to-share-how-to-enable-call-center-posi
 1. copy and replace app_config.php, and call_center_queue_edit.php to /var/www/fusionpbx/app/call_centers/
 
 2. copy callcenter-announce-position.lua to /usr/share/freeswitch/scripts/
+  cd /usr/share/freeswitch/scripts
+chown www-data:www-data callcenter-announce-position.lua
 
 3. Advanced -> Upgrade -> App Defaults and then Menu Defaults and Permission Defaults.
 
