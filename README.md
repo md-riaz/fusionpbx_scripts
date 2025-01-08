@@ -27,3 +27,5 @@ https://www.pbxforums.com/threads/i-want-to-share-how-to-enable-call-center-posi
 $text['description-queue_announce_position']['en-us'] = "Announce position of caller in the queue.";
 
 Note: Use either Announce Position nor Announce Sound, if use both the call center will play both sound and it will be messy and noisy sound.
+
+![image](https://github.com/user-attachments/assets/f8f1314d-accc-4380-9ed4-0e27c67c57ef)
